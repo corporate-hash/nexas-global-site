@@ -20,3 +20,5 @@ const translations = {
     "nav.inquiry": "सम्पर्क"
   }
 };
+
+window.HIMALAYAN_ORIGIN_TRANSLATIONS = translations;
