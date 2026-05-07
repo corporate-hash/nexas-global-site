@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Himalayan Origin rare coffee and tea from Nepal">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#143d2d"/>
+      <stop offset="0.58" stop-color="#214f3b"/>
+      <stop offset="1" stop-color="#5b3b27"/>
+    </linearGradient>
+    <pattern id="lines" width="44" height="44" patternUnits="userSpaceOnUse" patternTransform="rotate(32)">
+      <path d="M0 0H44" stroke="#f8f2e7" stroke-opacity="0.12" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#lines)"/>
+  <circle cx="118" cy="112" r="44" fill="none" stroke="#f8f2e7" stroke-width="2"/>
+  <text x="118" y="123" text-anchor="middle" fill="#f8f2e7" font-family="Georgia, serif" font-size="24" font-weight="700">HO</text>
+  <text x="190" y="123" fill="#f8f2e7" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="5">HIMALAYAN ORIGIN</text>
+  <text x="86" y="282" fill="#b8954d" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="5">NEPALESE SPECIALTY ORIGINS</text>
+  <text x="82" y="390" fill="#f8f2e7" font-family="Georgia, serif" font-size="86" font-weight="600">From the Foothills</text>
+  <text x="82" y="486" fill="#f8f2e7" font-family="Georgia, serif" font-size="86" font-weight="600">of the Himalayas</text>
+  <text x="86" y="554" fill="#efe4d0" font-family="Arial, sans-serif" font-size="28">Rare coffee and tea from Nepal.</text>
+  <path d="M824 492 944 280l68 112 42-66 76 166H824Z" fill="#b8954d" opacity="0.86"/>
+</svg>

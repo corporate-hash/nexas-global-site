@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Himalayan Origin">
+  <rect width="64" height="64" rx="32" fill="#143d2d"/>
+  <path d="M14 42 28 20l8 13 5-8 9 17H14Z" fill="#b8954d"/>
+  <path d="M24 42h16" stroke="#f8f2e7" stroke-width="3" stroke-linecap="round"/>
+</svg>
